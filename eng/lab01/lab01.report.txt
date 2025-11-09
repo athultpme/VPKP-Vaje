@@ -1,0 +1,18 @@
+Write a short report on what data you found ?
+1. My name 
+There are many people same name as my name, but I didn't find any data on my name or photo.
+
+. **Have I Been Pwned**  
+I discovered that my old email has been involved in 8 data breaches, including Twitter in 2013, Canva in 2019, ixigo in 2019, and Dubsmash.
+
+. **Osintleak**  
+I found that my username, email, and details from third-party login information have been leaked.
+
+2. **What Potential Risk Does It Pose?**  
+Someone could log into third-party websites, like TikTok, and upload videos or act as me.
+
+3. **Write a Worst-Case Scenario**  
+In a worst-case scenario, an individual could impersonate me and connect with my friends, potentially using it for phishing scams.
+
+4. **How Would You Rate Your Personal Security/Privacy?**  
+I would rate my personal security and privacy a 5 out of 10.r 2013, Canva 2019, ixigo 2019, Dubsmash
