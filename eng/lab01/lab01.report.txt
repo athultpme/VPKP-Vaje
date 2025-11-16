@@ -1,18 +1,15 @@
-Write a short report on what data you found ?
-1. My name 
-There are many people same name as my name, but I didn't find any data on my name or photo.
+1.	Write a short report on what data you found. 
+	Google Dorking
+•	I searched my name with the help of Google dorking and revealed that multiple individuals share the same name; however, no identifiable personal data or photographs linked specifically to me were found online.
+•	And, through Have I Been Pwned, it was determined that my old email address has been involved in eight distinct data breaches. Notable incidents include the 2013 Twitter breach, the 2019 Canva breach, the 2019 ixigo breach, and the 2019 Dubsmash breach.
+•	Additionally, an Osintleak search indicated that my username, email address, and certain details from third-party login credentials have been exposed through compromised databases.
 
-. **Have I Been Pwned**  
-I discovered that my old email has been involved in 8 data breaches, including Twitter in 2013, Canva in 2019, ixigo in 2019, and Dubsmash.
+2.	What Potential risk does it pose?
+	The exposure of login credentials linked to third-party platforms presents a risk of unauthorised access. Malicious actors could potentially log into social or content-sharing platforms, for instance, Twitter, Dubsmash, using compromised credentials and engage in activities.
 
-. **Osintleak**  
-I found that my username, email, and details from third-party login information have been leaked.
+3.	Write a Worst-Case Scenario?
+	In an extreme case. An attacker could impersonate online and interact with personal contacts under a false identity. Such impersonation could be leveraged to distribute phishing links, collect additional personal information from the network, or conduct fraudulent activities using the identity.
 
-2. **What Potential Risk Does It Pose?**  
-Someone could log into third-party websites, like TikTok, and upload videos or act as me.
+4.	How would you rate your personal security or privacy?
+	Previously, personal security and privacy were rated at 5 out of 10 due to multiple data breaches. Over the past few years, my security has improved significantly changes with strong passwords and two-factor authentication across all major accounts.
 
-3. **Write a Worst-Case Scenario**  
-In a worst-case scenario, an individual could impersonate me and connect with my friends, potentially using it for phishing scams.
-
-4. **How Would You Rate Your Personal Security/Privacy?**  
-I would rate my personal security and privacy a 5 out of 10.
