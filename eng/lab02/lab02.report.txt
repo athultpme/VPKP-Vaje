@@ -1,0 +1,27 @@
+1)Compare the results of Sherlock and Maigret. What differences did you notice?
+
+Sherlock
+     Shows 239 results with links of username connected .
+Maigre.
+    Show default 500 results with link and profile details such as username, name, email id .
+
+2)Did you find any sensitive information (e.g. email address, private pictures, phone number)? How could the person protect it from being publicly available?
+
+    Yes, I found mostly social media account like reddit, twitter etc and in profile i found email address, name, photos and least phone number. A person can 
+     1.Change account from public to private
+     2.Change who can see your profile to friends only
+     3.Avoid phone number posting 
+     4.Change email to professional email from personal email
+     5.Review old content and delete or remove unneccesary details relate to personal information.
+
+3)What information was the easiest to find? What was the hardest to find?
+    Easiest information i found is social media profiles linked to username(twitter, reddit, etc) and metadata i found, fullname, email address, user id, location and hardest i found is some user named alias from their actual name, personal email, phone number and photo.
+
+4)How would you adjust your own online behavior after doing this exercise?
+     1.I will reduce posting photos and cautious about personale information, location.
+     2.Change my Account to private so only my friends can see.
+     3.Remove old photo related to my personal informations.
+     4.Use separate username from actual name.
+
+5) Do you think the use of OSINT tools is ethically questionable? In which cases is it justified?
+   I think it depends how it used, for instance if it used in legally like for defensive security etc or if it is employ for targetting individual for unethical behaviour.Hence, it can be justified for education, security, etc however not for violating privacy and causing harm to people.
