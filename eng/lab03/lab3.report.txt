@@ -1,0 +1,32 @@
+📝 Analysis and Report
+
+1. What was the exact location (coordinates and address)?
+   I selected a sample image from the exif-samples dataset and used ExifTool to extract all available metadata. The metadata included the precise geographic coordinates, 39°03'04.8"N 94°17'19.6"W, and the address, 3P26+GFQ Blue Springs, Missouri, USA.
+
+2. When was the image taken? 
+   Date/Time Original: 2021:04:11 15:47:53.054-05:00
+
+3. What other metadata did you notice?
+    In examining this photo, I identified metadata including,       Camera Model Name : iPhone 11 Pro Max
+        Make : Apple
+        Software : 14.4.2
+        Megapixels : 8.5
+        Lens ID  : iPhone 11 Pro Max back triple camera 4.25mm f/1.8
+
+4. What surprised you? 
+    The location is what surprises me the most. It displays the precise GPS location together with latitude and longitude, and the address is easily located on the map.
+
+5.What would you recommend to someone who regularly posts images online? 
+   I will mention that photos can contain hidden data like location, time and device info, which can affect privacy.Therefore, I would suggest, to Turn Off location in the camera app as well as remove location metadata option when sharing, or simple app tool that remove EXIF or metadata from photo.
+
+
+ 💬 Reflection  
+
+1. Should everyone remove EXIF ​​data before posting an image?
+    I am neutal in the sense that removinf EXIF data is a personal risk decision, like for most ordinary users, deleting or removing before posting is a good privacy practice, however phones and whatsapp remove metadata for them .At the same time, in some context EXIF can be usefor for forensic and OSINT, for instance when investigators analyze images to verify evidence.
+    
+2. How can we protect ourselves from the misuse of such information?
+    First,I would recommend to Turn Off camera location in phone setting, manually remove metadata before sharing using EXIF tool and keep acconts private ans share sensitive photos only with people you trust and avoid posting images that reveal your home, routine, or children's location.
+
+3. Have you ever posted an image that contained such metadata? What would your reaction be today?
+Yes, I probably posted 10-15 years ago that still contain metadata like location and time, because i was not aware of these risks then. Today, knowing this, my reaction would be to review my old posts, check whether those images exposes sensitive locations, and then wither delete them or re-upload cleaned version without metdata.
