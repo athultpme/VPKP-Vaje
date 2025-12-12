@@ -1,0 +1,30 @@
+📝 Analysis and report
+
+1. Record which passwords were found and how quickly.
+During the testing process, three passwords were successfully identified by the cracking by the John.
+     1) letmein    (user4)
+     2) qwerty123  (user2)
+     3) Password1  (user1)
+
+     These passwords were discovered quickly in seconds, this indicate their low strength and high likelihood of being included in password dictionaries such as rockyou.txt.
+     
+2. Which strong password did the program not find? Why? 
+John failed to identify the password My$Strong&Pass2024 and Summer2024, because both passwords were not present in the rockyou.txt wordlists. My$Strong&Pass2024 demonstrates strong password combining upper and lower case letters, special characters , and numbers, making it difficult to guess and resistant to dictionary base attack.
+
+
+3️⃣ Reflection and analysis
+
+1. How does the security score increase as you increase the length?   
+   Testing in Bitwarden's password strenth, a 12 character password can be cracked within approximately 11 seconds , if considered only letters. However password exceeding 20-24 characters in length are considered difficult to crack.
+
+2. How do special characters affect the score?
+   Adding even one special character can greatly extend the estimated time to crack. For instance, a single special character may increase resistance to several weeks or months, while multiple special characters can raise to estimate to years. 4
+
+3. How is a “passphrase” scored compared to a classic password?
+   Compared to normal password, passphrases generally achieve much higher strenth scores. Due to their lenth and unpredictability, passphrases are often estimated to require centuries to break through brute force method, particularly when combine with numbers or special charcters .
+
+4. Which password would you recommend for everyday use and why?
+   For everyday use i would suggest ,
+   1) Choose a password easy to remember, including special character and numbers .
+   2) Consider secure passphrase over a short passwords.
+   2) Authentication methods such as passkeys or password manager such Bitwarden , NordPass to generate and manage strong, unique passwords securely.  
