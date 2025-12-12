@@ -1,0 +1,41 @@
+📝 Analysis and report
+
+For each password, write down:
+
+1. The password you created.
+   G1 8 character password                       TimeDanc                 Time: 3min      Colour: Red
+   G2 12 character + number                      Lop8BlackE3              Time: 20 Days   Colour: Yellow
+   G3 16 character + number + special character  Wh9t5$Stri1%4G7#         Time: centuries Colour: Blue   
+   G4 24 character anything                      N9K15l!$T20%s12A7e14I22s Time: Centuries Colour: Blue
+   G5 Passphrase 4 word                          Theory-Line every-Single    Time Centuries  Colour: Blue
+
+2. What settings you chose.
+    G1 setting choosen 8 characters uppercase and lowercase letters only, no numbers or special characters.   
+    G2 setting choosen 12 characters uppercase and lowercase letters, as well as numbers, no special character
+    G3 setting choosen 16 characters uppercase and lowercase letters, numbers and special characters.
+    G4 setting choosen 24 characters anything, all characters types allowed
+    G5 setting choosen Passphrase , 4 randomly selected words separated by spaces and dashes .
+
+
+3. Is the password safe to use and what would you change to make it even more secure?
+    G1 : The password is not safe for real use because it is short and only letters and its vulnerable to bruteforce attacks.To improve increase length ass numbers and special characters.
+    G2 : This password is moderately safe for everyday accounts and adding digits make bruteforce attack hard. It can be further improved by extending length and special character.
+    G3 : This password is generally safe to use and, Bitwarden rate such combination as strong with long estimated times. To improve, Avoid meaningful patterns and consider increasing length.
+    G4 : This password is highly secure and long estimate time . It could be improved storing in a password manager.
+    G5: A random four word passphrase is strong and easier to remember . To secure even more, add numbers , letters and symnol in between words and  avoid any phrases that could be guessed from personal information .
+
+ 3️⃣ Reflection and analysis
+
+    1. How does the security score increase as you add length?
+       When we increase password length, possible number of cobination increases. therefore bruteforce attack needed more time.
+        
+   
+    2. How do special characters affect the score?
+       Special character in password will usually recieve a higher score and a longer time to crack,, estimate than one without them, provided the symbols are placed in non predictable positions.
+
+    3. How does a “passphrase” score compare to a classic password?
+       Passphrases are typically longer and thus harder to bruteforce than a shorter classic password made of mixed characters, while still being easier for users to remember. Passphrase of 4 to 6 words can reach very high entropy and rated as strong or green in strength indicator .
+
+   
+    4. Which password would you recommend for everyday use and why?
+       For everyday use, a good choice is a unique, memorable passphrases that is long, enhanced with numbers and special charaters, store password in password manager safely and multi factor authentication for an important accounts. Hence, this approach provides secure and strong method to accounts .
