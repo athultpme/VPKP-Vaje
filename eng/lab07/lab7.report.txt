@@ -1,0 +1,14 @@
+
+5️⃣ Reflection
+
+1. How would you explain the difference between an unencrypted (e.g. SMTP without TLS on port 1025) and an encrypted message (SMTP with STARTTLS on port 587)? What data can an attacker see in the first case and what in the second?
+   In wireshark, unencrypted SMTP on port 1025 sends email content in plain text, while  on port 587 initiate a plain connection , containing letters ,digit, special charcters.
+
+2. Why is fingerprinting in PGP to prevent man-in-the-middle attacks?
+   Fingerprinting creates a unique hash of PGP public keys for verification such as phone calls, preventing man in the middle attacks where sttackers substitute keys during exchange  .
+
+3. When would you use PGP and when would you use Signal?
+   PGP is use for email based securit, for instance, encrypted  document sharing needing signatures, such as Vulnerbility disclosure policy . Signal is for real time encrypted messaging  , for mobile conversation.
+
+4. Do you think end-to-end encryption should be the default in all communication applications? Justify your answer from the perspective of security, privacy, and user experience.
+   End to end encryption must be default across all communication apps, as it eliminates provider access to plaintext, human error breaches while preserving privacy against surveilliance. Security and privacy benifits surpass user experience  for instance key verification.
