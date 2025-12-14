@@ -23,7 +23,7 @@
 
 
 2. Would you recommend this tool to anyone else (parents, friends, colleagues)?
-   For parents simplify explaining device and network safety to family members unfamilar with cybersecurity basics.As for friends, encourages peer comparisons on scores, fostering habits like two factor authentication  adoption amid rising digital threat, and Colleagues , support workplace discussions on privacy, adaptable for team awarness sessions.
+   For parents simplify explaining device and network safety to family members unfamilar with cybersecurity basics.As for friends, encouraging  habits like two factor authentication, and Colleagues , support workplace discussions on privacy, conduct for team awarness sessions.
 
 3. How would you adapt this checklist for use in a school or business environment?
    For school, incorporate student specific items like safe device usage policies, parental consent for data sharing, Visitor screening, accessaudit for doors and add regular evaluations.
